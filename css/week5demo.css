@@ -1,0 +1,10 @@
+div {
+    border: 3px;
+    border-style: dotted;
+    border-color: red;
+    float: left;
+    padding: 1%;
+     /* this is new css k/v to make sure all the padding and boarders are contained within the spacing */
+
+     box-sizing: border-box;
+}
